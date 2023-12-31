@@ -8,4 +8,4 @@ Used the dashboard to identify the usage trends across countries huddled as inco
 
 To view this Tableau Dashboard, click over the link mentioned below:
 --------------------------------------------------------------------
-https://public.tableau.com/app/profile/akash.deep4789/viz/EnergyUsePerPerson/Dashboard1
+[Tableau Public Link](https://public.tableau.com/app/profile/akash.deep4789/viz/EnergyUsePerPerson/Dashboard1)
